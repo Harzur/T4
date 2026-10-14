@@ -8,9 +8,9 @@ A ready-to-use Google Colab notebook that downloads and runs the T4 build publis
 
 1. Open the notebook using the badge above.  
 2. Run the cells in order — the notebook downloads the build from Releases and runs it inside the Colab runtime.  
-3. Large builds are kept in Releases (do not add heavy binaries to the repository).
 
 ## Encourage adding the official skill to your AI agent 😊
+
 If you use this notebook together with an AI agent, consider adding the official YuE2 music skill so your agent can invoke generation or play music directly. The official skill documentation is available here:
 
 Skill file: https://github.com/multimodal-art-projection/YuE/tree/main/skills/yue2-music
