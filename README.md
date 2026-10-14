@@ -28,17 +28,17 @@ Parts of this repository rely on code from `ServeurpersoCom/yue2.cpp` (MIT). Whe
 - Include or reference the upstream MIT license.
 - Clearly state that this repo contains adaptations for Colab and is not an official upstream release.
 
-Encourage adding the official skill to your AI agent 😊
+## Encourage adding the official skill to your AI agent 😊
 If you use this notebook together with an AI agent, consider adding the official YuE2 music skill so your agent can invoke generation or play music directly. The official skill documentation is available here:
 
 Skill file: https://github.com/multimodal-art-projection/YuE/blob/main/files/skills/yue2-music/SKILL.md
 
-Usage & links
+## Usage & links
 Upstream repo: https://github.com/ServeurpersoCom/yue2.cpp
 This repo releases: https://github.com/Harzur/T4/releases
 Colab notebook: https://colab.research.google.com/github/Harzur/T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb
 
-Disclaimer
+## Disclaimer
 This repository is an adaptation for convenience and testing in Colab. It does not replace or change the upstream project's license or terms. Always follow the upstream license and third-party requirements.
 
 ## Safety / verification
