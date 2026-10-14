@@ -1,6 +1,6 @@
 # YuE2_(Q8_0)_Colab_T4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harzur/T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harzur/YuE2_Q8_0_Colab_T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb)
 
 A ready-to-use Google Colab notebook that downloads and runs the T4 build published in this repository's Releases.
 
