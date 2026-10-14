@@ -11,7 +11,9 @@ A ready-to-use Google Colab notebook that downloads and runs the T4 build publis
 
 ## Encourage adding the official skill to your AI agent 😊
 
-If you use this notebook together with an AI agent, consider adding the official YuE2 music skill so your agent can invoke generation or play music directly. The official skill documentation is available here:
+If you use this notebook together with an AI agent, consider adding the official YuE2 music skill.
+
+The official skill documentation is available here:
 
 Skill file: https://github.com/multimodal-art-projection/YuE/tree/main/skills/yue2-music
 
