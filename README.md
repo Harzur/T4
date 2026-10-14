@@ -1,3 +1,5 @@
-# T4 precompiled build
+# YuE2_(Q8_0)_Colab-T4
 
-Build precompilado para T4 subido desde Colab.
+Yue2 Q8_0.GGUF para google colab free.Build precompilado para T4
+
+[[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
