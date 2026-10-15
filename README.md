@@ -1,6 +1,6 @@
 # YuE2_(Q8_0)_Colab_T4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harzur/YuE2-Q8.0-Colab-T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harzur/YuE2-Q8_0-Colab-T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb)
 
 A ready-to-use YuE2-Q8_0.GGUF Google Colab T4(Free) notebook, that downloads the T4 build published in this repository's Releases. With browser UI. Fast load
 
@@ -39,7 +39,7 @@ Parts of this repository rely on code from `ServeurpersoCom/yue2.cpp` (MIT). Whe
 ## Usage & links
 - Upstream repo: https://github.com/ServeurpersoCom/yue2.cpp
 - This repo releases: https://github.com/Harzur/T4/releases
-- Colab notebook: https://colab.research.google.com/github/Harzur/YuE2-Q8.0-Colab-T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb
+- Colab notebook: https://colab.research.google.com/github/Harzur/YuE2-Q8_0-Colab-T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb
 
 ## Disclaimer
 This repository is an adaptation for convenience and testing in Colab. It does not replace or change the upstream project's license or terms. Always follow the upstream license and third-party requirements.
