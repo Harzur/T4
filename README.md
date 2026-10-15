@@ -44,15 +44,3 @@ Parts of this repository rely on code from `ServeurpersoCom/yue2.cpp` (MIT). Whe
 ## Disclaimer
 This repository is an adaptation for convenience and testing in Colab. It does not replace or change the upstream project's license or terms. Always follow the upstream license and third-party requirements.
 
-## Safety / verification
-
-Running binaries downloaded from the internet has risks. We recommend verifying integrity before execution.
-
-Example to download and show SHA256 in Colab:
-```bash
-# Download (replace <TAG> and <FILENAME>)
-curl -L -o /content/t4_build.zip "https://github.com/Harzur/T4/releases/download/<TAG>/<FILENAME>"
-# Print SHA256
-sha256sum /content/t4_build.zip
-# Unzip
-unzip -o /content/t4_build.zip -d /content/t4_build
