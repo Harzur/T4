@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harzur/YuE2_Q8_0_Colab_T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb)
 
-A ready-to-use Google Colab T4 notebook that downloads and runs the T4 build published in this repository's Releases.
+A ready-to-use YuE2-Q8_0.GGUF Google Colab T4(Free) notebook that downloads the T4 build published in this repository's Releases. Fast load
 
 ## Quick summary
 
@@ -11,7 +11,7 @@ A ready-to-use Google Colab T4 notebook that downloads and runs the T4 build pub
 
 ## Encourage adding the official skill to your AI agent 😊
 
-If you use this notebook together with an AI agent, consider adding the official YuE2 music skill.
+If you use an AI agent, consider adding the official YuE2 music skill.
 
 The official skill documentation is available here:
 
