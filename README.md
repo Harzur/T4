@@ -38,7 +38,7 @@ Parts of this repository rely on code from `ServeurpersoCom/yue2.cpp` (MIT). Whe
 
 ## Usage & links
 - Upstream repo: https://github.com/ServeurpersoCom/yue2.cpp
-- This repo releases: https://github.com/Harzur/T4/releases
+- This repo releases: https://github.com/Harzur/YuE2-Q8_0-Colab-T4/releases
 - Colab notebook: https://colab.research.google.com/github/Harzur/YuE2-Q8_0-Colab-T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb
 
 ## Disclaimer
