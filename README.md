@@ -11,7 +11,7 @@ A ready-to-use YuE2-Q8_0.GGUF Google Colab T4(Free) notebook that downloads the 
 
 ## Encourage adding the official skill to your AI agent 😊
 
-If you use an AI agent, consider adding the official YuE2 music skill.
+If you use an AI agent, consider adding the official YuE2 music skill to it.
 
 The official skill documentation is available here:
 
