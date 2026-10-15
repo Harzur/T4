@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harzur/YuE2_Q8_0_Colab_T4/blob/main/YuE2_(Q8_0)_Colab_T4.ipynb)
 
-A ready-to-use YuE2-Q8_0.GGUF Google Colab T4(Free) notebook,with browser UI, that downloads the T4 build published in this repository's Releases. Fast load
+A ready-to-use YuE2-Q8_0.GGUF Google Colab T4(Free) notebook, that downloads the T4 build published in this repository's Releases. With browser UI. Fast load
 
 ## Quick summary
 
